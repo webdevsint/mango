@@ -1,1 +1,1 @@
-const params = []; module.exports=params;
+const params=[];module.exports=params;
