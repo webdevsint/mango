@@ -11,7 +11,7 @@ Welcome to your shiny new **MangoDB** instance! Till we get the CLI up and runni
 
 ### Installation Guide: <a name="install"></a>
 
-Just clone the branch (with and without backup) you want from our GitHub repo or dowload it from the [MangoDB repository](https://github.com/webdevsint/mango-starter). **We recommend the the [starter with backup](https://github.com/webdevsint/mango/tree/starter-with-backup) template if you intend to deploy your database instance.**
+Just clone the branch (with and without backup) you want from our GitHub repo or dowload it from the [MangoDB repository](https://github.com/webdevsint/mango). **We recommend the the [starter with backup](https://github.com/webdevsint/mango/tree/starter-with-backup) template if you intend to deploy your database instance.**
 
     git clone -b <branch name> https://github.com/webdevsint/mango-starter.git
 
