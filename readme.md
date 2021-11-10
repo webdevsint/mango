@@ -136,7 +136,7 @@ Go ahead and delete that **"./index.js"** file.
 
 <img src="https://cdn.discordapp.com/attachments/744186963787251712/907880480739844096/unknown.png"></img>
 
-**Step 3:**  <a name="step3></a>"
+**Step 3:**  <a name="step3"></a>
 Create a new file called **".replit"** and just paste these contents in it and it will automatically save in a few moments:
 
     language = "nodejs"
