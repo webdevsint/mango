@@ -41,7 +41,7 @@ Populate this array with the properties you want each of your document entries t
 
     const  params = ["name", "hobby"];
 
-Now after adding your properties, open up a terminal in the **"./documents/"** folder and type the following command:
+Now after adding your properties, open up a terminal in the **"./routes/"** folder and type the following command:
 
     node set
 
